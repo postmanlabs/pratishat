@@ -1,6 +1,6 @@
 {
   "name": "pratishat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Percent-encode specific characters in the string",
   "author": "Postman Inc.",
   "license": "Apache-2.0",
